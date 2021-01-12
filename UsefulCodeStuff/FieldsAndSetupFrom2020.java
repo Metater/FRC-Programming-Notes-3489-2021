@@ -10,6 +10,7 @@
   WPI_TalonSRX _wheelSpinner = new WPI_TalonSRX(6);
   WPI_TalonSRX _bottomShooter = new WPI_TalonSRX(7);
   WPI_TalonSRX _intakeWheel = new WPI_TalonSRX(8);
+  
   WPI_TalonFX _winchLeft = new WPI_TalonFX(9);
   WPI_TalonFX _rearIntakeBelt = new WPI_TalonFX(10);
 
