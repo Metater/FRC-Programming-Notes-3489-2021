@@ -6,6 +6,7 @@ each function is called at a time, some multiple times, and some once per event.
 Some descriptions are copied from the Robot.java template code comments.
 
 
+
 robotInit:
   This function is run when the robot is first started up and should be used for any initialization code.
 
