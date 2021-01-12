@@ -1,7 +1,0 @@
-// x = usb number set in drive station
-Joystick joystick = new Joystick(x);
-
-joystick.getX()
-joystick.getY()
-joystick.getZ()
-//https://first.wpi.edu/FRC/roborio/beta/docs/java/edu/wpi/first/wpilibj/Joystick.html

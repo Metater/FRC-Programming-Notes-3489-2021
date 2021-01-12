@@ -1,0 +1,37 @@
+
+
+We chose the command robot template for our project.
+There are functions that are called at different times when the robot is powered and connected,
+each function is called at a time, some multiple times, and some once per event.
+Some descriptions are copied from the Robot.java template code comments.
+
+
+robotInit:
+  This function is run when the robot is first started up and should be used for any initialization code.
+
+robotPeriodic:
+  This function is called at around 50Hz, every 20ms for the duration of the robot being powered, don't put motor code in here
+
+disabledInit:
+  This is called when the robot is disabled.
+
+disabledPeriodic:
+  This is called periodically when the robot is disabled.
+
+autonomousInit:
+  Called when the robot enters autonomous mode.
+
+autonomousPeriodic:
+  Called periodically, at around 50Hz, every 20ms
+
+teleopInit:
+  Called when teleop starts
+
+teleopPeriodic:
+  Called during teleop periodically at around 50Hz, every 20ms
+
+testInit:
+  Called when test mode is entered, controlled on the drive station laptop
+
+testPeriodic:
+  Called periodically when the robot is in test mode at around 50Hz, every 20ms
