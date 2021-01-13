@@ -3,4 +3,4 @@
  Code Review 👏👏!  
 # Useful FRC Links
  List of links: http://metater.tk:8080/frc/  
- To edit list of links: http://api.metater.tk:5000/frc/  
+ To edit list of links: http://api.metater.tk:5000/frc  
