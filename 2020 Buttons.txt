@@ -1,0 +1,24 @@
+
+
+All of these button names are the same as the code, but no _button
+
+Manipulator
+  Case1Swap = 1
+
+  BLEH = 5
+
+  ReverseIndexPart1 = 11
+  ReverseIndexPart2 = 7
+  RI(Reverse Index) = 10
+
+  SissorLiftRight = 8
+  SissorLiftLeft = 6
+
+  ColorWheel/ColorPneu = 4
+  ColorMotor = 12
+  Stage2Color = 3
+
+
+
+Left Drive
+  Toggle Direction = 7
