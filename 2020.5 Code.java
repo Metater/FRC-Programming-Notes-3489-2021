@@ -68,7 +68,7 @@ public class Robot extends TimedRobot {
   WPI_TalonSRX _rghtFollower = new WPI_TalonSRX(4);
   WPI_TalonSRX _frontIntakeBelt = new WPI_TalonSRX(5);
   WPI_TalonSRX _wheelSpinner = new WPI_TalonSRX(6);
-  WPI_TalonSRX _bottomShooter = new WPI_TalonSRX(7);
+  WPI_TalonSRX _bottomShooter = new WPI_TalonSRX(7); // NOT USED ANYWHERE IN CODE
   WPI_TalonSRX _intakeWheel = new WPI_TalonSRX(8);
   WPI_TalonFX _winchLeft = new WPI_TalonFX(9);
   WPI_TalonFX _rearIntakeBelt = new WPI_TalonFX(10);
