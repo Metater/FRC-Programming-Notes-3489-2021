@@ -1,0 +1,22 @@
+
+
+If antijam doesn't work well, add a current ignore time
+
+
+States should be used with a switch statement to simplify, even if could be done more efficiently,
+ignore optimizations for independent actions for now
+
+
+
+
+1. When intake is activated, extend and spin up roller,
+  also spin the bottom intake belt(when nothing is on the sensor)
+
+2. When the 1st ball hits that sensor, stop the bottom intake belt, and
+trigger a ball index of the whole conveyor
+
+3. Spin up bottom conveyor again
+
+4. Repeat step 2 then 3 until 4 balls are in the robot
+
+5. When the 5th ball hits the bottom sensor, stop the bottom belt, and toggle intake extension
