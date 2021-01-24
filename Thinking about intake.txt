@@ -19,4 +19,4 @@ trigger a ball index of the whole conveyor
 
 4. Repeat step 2 then 3 until 4 balls are in the robot
 
-5. When the 5th ball hits the bottom sensor, stop the bottom belt, and toggle intake extension
+5. When the 5th ball hits the bottom sensor, stop the bottom belt, and toggle intake extension, may not even need bottom belt much or at all
