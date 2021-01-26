@@ -36,3 +36,18 @@ private void tryToggleIntake()
             }
         }
     }
+
+
+// In state handler
+    public boolean commitingToUnjam = false;
+    public double lastCommitToUnjamTime;
+
+    public void commitToUnjam()
+    {
+        commitingToUnjam = true;
+        lastCommitToUnjamTime = Timer.getFPGATimestamp();
+    }
+    public void uncommitToUnjam()
+    {
+        commitingToUnjam = false;
+    }
